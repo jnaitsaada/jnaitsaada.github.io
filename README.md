@@ -1,2 +1,2 @@
-# jnaitsaada.github.io
+# thizirinait.github.io
 Personal Webpage

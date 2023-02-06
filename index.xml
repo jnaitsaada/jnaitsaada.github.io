@@ -2,22 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>https://thizirinait.github.io/</link>
-      <atom:link href="https://thizirinait.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jnaitsaada.github.io/</link>
+      <atom:link href="https://jnaitsaada.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Thiziri Nait Saada 2023 </copyright><lastBuildDate>Mon, 07 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thizirinait.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jnaitsaada.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
       <title> </title>
-      <link>https://thizirinait.github.io/</link>
+      <link>https://jnaitsaada.github.io/</link>
     </image>
 
 
     <item>
-      <title>On the Initialisation of Wide Low-Rank Feedforward Neural Networks</title>
-      <link>https://thizirinait.github.io/publication/EOC-lowrank-2023/</link>
+      <title>Inference of pairwise coalescence times and allele ages using deep neural networks</title>
+      <link>https://jnaitsaada.github.io/publication/coalNN/</link>
       <pubDate>Tue, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://thizirinait.github.io/publication/EOC-lowrank-2023/</guid>
+      <guid>https://jnaitsaada.github.io/publication/coalNN/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identity‐by‐descent detection across 487,409 British samples reveals fine scale population structure and ultra‐rare variant associations</title>
+      <link>https://jnaitsaada.github.io/publication/identity-by-descent/</link>
+      <pubDate>Tue, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://jnaitsaada.github.io/publication/identity-by-descent/</guid>
       <description></description>
     </item>
     

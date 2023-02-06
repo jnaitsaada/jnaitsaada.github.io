@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications |  </title>
-    <link>https://thizirinait.github.io/publication/</link>
-      <atom:link href="https://thizirinait.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jnaitsaada.github.io/publication/</link>
+      <atom:link href="https://jnaitsaada.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Thiziri Nait Saada 2023 </copyright><lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://thizirinait.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jnaitsaada.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://thizirinait.github.io/publication/</link>
+      <link>https://jnaitsaada.github.io/publication/</link>
     </image>
     
     <item>
-      <title>On the Initialisation of Wide Low-Rank Feedforward Neural Networks</title>
-      <link>https://thizirinait.github.io/publication/EOC-lowrank-2023/</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://thizirinait.github.io/publication/EOC-lowrank-2023/</guid>
+      <title>Inference of pairwise coalescence times and allele ages using deep neural networks</title>
+      <link>https://jnaitsaada.github.io/publication/coalNN/</link>
+      <pubDate>Thu, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jnaitsaada.github.io/publication/coalNN/</guid>
       <description></description>
     </item>
     
+      <item>
+      <title>Identity‐by‐descent detection across 487,409 British samples reveals fine scale population structure and ultra‐rare variant associations</title>
+      <link>https://jnaitsaada.github.io/publication/Identity-by-descent/</link>
+      <pubDate>Thu, 26 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://jnaitsaada.github.io/publication/Identity-by-descent/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
